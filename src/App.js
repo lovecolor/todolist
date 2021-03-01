@@ -1,8 +1,9 @@
+/* eslint-disable */
 import logo from './logo.svg';
 import './App.css';
 
 import React, { Component } from 'react'
-let listToDo=[123,123];
+let listToDo=[];
 export default class App extends Component {
   constructor(props)
   {
